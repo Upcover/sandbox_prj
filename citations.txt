@@ -1,2 +1,3 @@
 Ceci est la citation d'un grand Hauteur.
 Ceci est une deuxième citation de Nini la tortue.
+Je veux tester la commande git diff.
