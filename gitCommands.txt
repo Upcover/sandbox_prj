@@ -1,0 +1,8 @@
+git init //To create git repository
+git status //Show the status of the git repository and the working and stage area.
+git add //Adds the files from the working area to the staging area
+git commit -m "......" //Commits the files to the git repository
+git diff / git diff --staged	//diff shows the difference between working and stagin area and the git diff --staged shows the difference between the staged and the commit area.
+git rm / git rm -f //removes files, the -f is for files in the staging area
+git mv //Rename a file 
+git log //Shows the different commits
